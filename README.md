@@ -24,7 +24,7 @@ Evaluated using accuracy, precision, recall, F1-score
 
 Published the fine-tuned model on Hugging Face
 
-Hugging Face Model: 🔗 View Model
+Hugging Face Model: 🔗 View Model - https://huggingface.co/swapnil-12/binary_cls_results
 
 2. Multiclass Sentiment Classification
 
@@ -52,4 +52,4 @@ Evaluated using accuracy, macro-F1, and confusion matrix
 
 Published the fine-tuned model on Hugging Face
 
-Hugging Face Model: 🔗 View Model
+Hugging Face Model: 🔗 View Model - https://huggingface.co/swapnil-12/multiclass_cls_result
